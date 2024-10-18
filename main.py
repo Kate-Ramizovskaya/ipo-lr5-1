@@ -11,6 +11,6 @@ for char in spis:
     elif char in vse_sogl:
         sogl+=1
 
-print("Кол-во гласных: ")
-print("Кол-во согласных: ")
-print("Кол-во букв: ")
+print("Кол-во гласных: ", glas)
+print("Кол-во согласных: ", sogl)
+print("Кол-во букв: ", length)
